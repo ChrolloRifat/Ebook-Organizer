@@ -20,11 +20,15 @@ The **eBook Organizer** is a Bash script designed to efficiently organize a larg
 1. **Clone the repository:**
 
 ```git clone [https://github.com/your-username/ebook-organizer.git](https://github.com/your-username/ebook-organizer.git)```
+
 2. **Navigate to the script directory:**
 ```cd ebook-organizer```
+
 3. **Make the script executable:**
 ```chmod +x organize_ebooks.sh```
+
 4. **Move the script to the folder/place where the ebooks are located**
+
 5. **Run the script:**
 ```./organize_ebooks.sh```
 This command will organize your eBooks by moving them to the "ebooks" folder, streamlining the management of your digital book collection.
