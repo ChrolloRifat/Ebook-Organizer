@@ -34,4 +34,5 @@ The **eBook Organizer** is a Bash script designed to efficiently organize a larg
 This command will organize your eBooks by moving them to the "ebooks" folder, streamlining the management of your digital book collection.
 ### Note
 Use the script responsibly and make sure to back up your data before running it.
-Important: Exercise caution while using this script, especially with valuable or irreplaceable data. It is highly recommended to test the script on a small subset of your collection before running it on the entire library.
+### Important: 
+Exercise caution while using this script, especially with valuable or irreplaceable data. It is highly recommended to test the script on a small subset of your collection before running it on the entire library.
